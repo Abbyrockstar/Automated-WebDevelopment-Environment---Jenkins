@@ -49,3 +49,5 @@ ssh -i /path/to/your/private-key.pem ec2-user@<EC2-PUBLIC-IP> "sudo systemctl re
 
 Mark the job completed and run the job. For testing, make sure that port 80 is open then run http://public-ip-of-Ec2/80 on your computer to see the website running. Do any changes in the code and see if webiste reflect your changes.
 
+
+![image](https://github.com/user-attachments/assets/75a8620a-71de-4d94-9229-377c5e360314)
